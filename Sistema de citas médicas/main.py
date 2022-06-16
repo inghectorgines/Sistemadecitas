@@ -1,3 +1,5 @@
+## Descargo y procedo a revisar y calificar.
+
 
 """ Sistema de citas médicas
 1.- Abrir asistente.
